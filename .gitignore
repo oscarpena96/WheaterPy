@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+#adding config.py file
+config.py
+API_Practice.ipynb
+Random_numbers.ipynb
+
 # Distribution / packaging
 .Python
 build/
